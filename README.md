@@ -11,6 +11,8 @@
     
 </div>
 # dev
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40RobertaPaes-blue)](https://www.linkedin.com/in/roberta-paes/)
+
 |[img loading="lazy" src=https://avatars.githubusercontent.com/u33001620?v=4" width=115><br><sub>Roberta Paes</sub>](https://github.com/devropaes/)
   
 </div>
