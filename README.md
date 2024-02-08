@@ -1,9 +1,9 @@
-<h1>Jogo do número secreto </h1>;
+<h1>Jogo do número secreto </h1>
 
-<h2> Sobre</h2>
+<h2>Sobre</h2>
 <a>Projeto do curso de lógica de programação da Alura</a>
 
-## Tecnologias
+🚀 Tecnologias
 <div>
   <img src="https://imag.shields.io/badge/HTML-239120?style-for-the-badge&logo-html5&logoColor=white">
   <img src="https://imag.shields.io/badge/CSS-239120?style-for-the-badge&logo-css3&logoColor=white">
