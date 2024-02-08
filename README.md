@@ -5,8 +5,8 @@
 
 🚀 Tecnologias
 <div>
-  <img src="![html](https://github.com/devropaes/numeroSecreto/assets/143963091/5a5e3903-a290-4394-9fd9-65ce9521883b)
-">
+  <img src="https://github.com/devropaes/numeroSecreto/assets/143963091/5a5e3903-a290-4394-9fd9-65ce9521883b.png" wigth="40")/>
+
   <img src="">
   <img src="">
     
