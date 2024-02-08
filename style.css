@@ -40,16 +40,16 @@ body::before {
     position: relative;
 }
 
-
 .container__conteudo {
+   
     display: flex;
     align-items: center;
-    position: absolute;
-    bottom: 0;
+    position: relative;
+   
 }
 
 .container__informacoes {
-    flex: 1;
+    
     padding: 3rem;
 }
 
@@ -92,8 +92,8 @@ body::before {
 
 h1 {
     font-family: 'Chakra Petch', sans-serif;
-    font-size: 72px;
-    padding-bottom: 3rem;
+    font-size: 32px;
+    padding-bottom: 1rem;
 }
 
 p,
@@ -110,10 +110,10 @@ button:disabled {
     background-color: gray;
 }
 
-@media screen and (max-width: 1250px) {
+@media screen and (max-width: 1200px) {
 
     h1 {
-        font-size: 50px;
+        font-size: 32px;
     }
 
     .container__botao {
@@ -126,7 +126,9 @@ button:disabled {
     }
 
     .container__imagem-pessoa {
-        display: none;
+     
+        display:none;
+        
     }
 
     .container__conteudo {
@@ -136,5 +138,21 @@ button:disabled {
 
     .container__informacoes {
         padding: 1rem
+    }
+
+    @media (max-width: 1200px) {
+        .cabecalho {
+            padding: 10%;
+        }
+        .cabecalho__menu {
+            justify-content: center ;
+        }
+        .apresentacao {
+            flex-direction: column-reverse;
+            padding:5%;
+        }
+        .apresentacao__conteudo {
+            width: auto;
+        }
     }
 }
