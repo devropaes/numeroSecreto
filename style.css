@@ -89,18 +89,6 @@ body::before {
     display: flex;
     gap: 2em;
 }
-.container__link {
-    /* Estilos para o novo link */
-    text-decoration: none;
-    display: inline-block;
-    border-radius: 16px;
-    background: #1875E8;
-    padding: 16px 24px;
-    font-size: 24px;
-    font-weight: 700;
-    margin-top: 2rem;
-    color: white;
-}
 
 h1 {
     font-family: 'Chakra Petch', sans-serif;
