@@ -10,7 +10,9 @@
   <img src="https://github.com/devropaes/numeroSecreto/assets/143963091/87964e74-2724-4375-aa4a-1ce3e7d96d35"width="120"px/>
     
 </div>
+
 # dev
-<img src="https://github.com/devropaes/numeroSecreto/assets/143963091/b59a8c11-7c6b-49d3-9535-6dd52c7f9825"
+<img src="https://github.com/devropaes/numeroSecreto/assets/143963091/b59a8c11-7c6b-49d3-9535-6dd52c7f9825.png "width="120"px/>
+Roberta Paes
   
 </div>
