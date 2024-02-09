@@ -13,6 +13,7 @@
 
 # dev
    <img src="https://github.com/devropaes/numeroSecreto/assets/143963091/b59a8c11-7c6b-49d3-9535-6dd52c7f9825.png width="120"px/>
+   ![200402_109498305798233_5479569_n](https://github.com/devropaes/numeroSecreto/assets/143963091/bab695fe-3d03-4930-9ac4-efd7d5193f4c)
 Roberta Paes
   
 </div>
