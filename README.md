@@ -1,7 +1,7 @@
 <h1>Jogo do número secreto </h1>
 
 <h2>Sobre</h2>
-<a>Projeto do curso de lógica de programação da Alura do Jogo do número secreto, onde você digita um número de 1 a 10 , o programa te fala se o número é maior ou menor do que foi digitado e quantas vezes foi digitado até acertar.</a>
+<a>Projeto do curso de lógica de programação da Alura do Jogo do número secreto, onde você digita um número de 1 e 10 , o programa te fala se o número é maior ou menor do que foi digitado e quantas vezes foi digitado até acertar.</a>
 
 🚀 Tecnologias
 <div>
